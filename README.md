@@ -65,8 +65,9 @@ A full-featured, cross-platform music streaming app built with **React Native + 
 ## Architecture
 
 ```
-<img width="2076" height="949" alt="image" src="https://github.com/user-attachments/assets/49e8a1f9-e2b6-4974-b4a8-0ab5fcc07cc9" />
+![Architecture Diagram](Loopify Architecture.png)
 
+![Data Flow Diagram](Loopify Data Flow.png)
 
 ```
 
