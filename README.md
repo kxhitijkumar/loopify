@@ -65,7 +65,10 @@ A full-featured, cross-platform music streaming app built with **React Native + 
 ## Architecture
 
 ```
-<img width="1691" height="840" alt="image" src="https://github.com/user-attachments/assets/c0dd74f7-0757-465a-856a-69fbadce2903" />
+<img width="1380" height="726" alt="image" src="https://github.com/user-attachments/assets/90361afc-8c0d-44f4-9f81-439d71fa112f" />
+
+<img width="1372" height="725" alt="image" src="https://github.com/user-attachments/assets/a95a0703-e079-491f-bed2-fda1ca62b52c" />
+
 
 ```
 
