@@ -65,9 +65,9 @@ A full-featured, cross-platform music streaming app built with **React Native + 
 ## Architecture
 
 ```
-![Architecture Diagram](loopify-architecture.jpeg)
+![Architecture Diagram](https://github.com/kxhitijkumar/loopify/blob/Version1.0/loopify-architecture.jpeg)
 
-![Data Flow Diagram](loopify-data-flow.jpeg)
+![Data Flow Diagram](https://github.com/kxhitijkumar/loopify/blob/Version1.0/loopify-data-flow.jpeg)
 
 ```
 
